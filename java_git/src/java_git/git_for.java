@@ -5,6 +5,9 @@ public class git_for {
 		int i;
 		for(i = 0; i<10; i++) {
 			System.out.println("git_hub" + i);
+			if(i<0) {
+				System.out.println("githob");
+			}
 		}
 	}
 
